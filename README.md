@@ -4,7 +4,7 @@ A study analyzing COVID-19 cases among individuals under 18 years old in Mexico 
 📊 Case Study
 The goal of this analysis is to identify risk factors among COVID-19-infected individuals who unfortunately passed away. To achieve this, a K-Means clustering analysis was performed to group infected individuals based on medically relevant characteristics.
 
-📌 Data Source: COVID-19 Database - CDMX
+📌 Data Source: COVID-19 Database - CDMX: https://datos.cdmx.gob.mx/dataset/base-covid-sinave
 
 🎯 Objective
 Identify medical characteristics most associated with higher fatality rates.
