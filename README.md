@@ -1,11 +1,12 @@
-# AnalisisCOVIDCDMX
-Análisis de personas contagiadas por COVID-19 en la CDMX durante el tercer bimestre de 2021 (1 de Mayo de 2021 a 1 de Julio de 2021) para menores de 18 años
+📝 Description:
+A study analyzing COVID-19 cases among individuals under 18 years old in Mexico City (CDMX) during the third bimester of 2021 (May 1 – July 1, 2021).
 
-Caso de estudio
+📊 Case Study
+The goal of this analysis is to identify risk factors among COVID-19-infected individuals who unfortunately passed away. To achieve this, a K-Means clustering analysis was performed to group infected individuals based on medically relevant characteristics.
 
-El propósito de este análisis es encontrar factores de riesgo entre las personas contagiadas por COVID-19 en la CDMX que desafortunamente fallecieron, agrupar en K grupos a los contagiados de acuerdo a sus características médicamente relevantes. 
+📌 Data Source: COVID-19 Database - CDMX
 
-Fuente: https://datos.cdmx.gob.mx/dataset/base-covid-sinave
-
-Objetivo:
-Determinar las características médicas que posee el grupo de contagiados donde existieron mas defunciones. Posteriormente, clasificar dichas características como factores de riesgo. 
+🎯 Objective
+Identify medical characteristics most associated with higher fatality rates.
+Classify these characteristics as potential risk factors.
+Use K-Means clustering to segment individuals based on their medical profiles.
